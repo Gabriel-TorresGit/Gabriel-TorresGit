@@ -7,7 +7,7 @@
 
 <h3 align="left">Conéctate conmigo en Linkedin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-torres-2386b21a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-torres-2386b21a4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-torres-2386b21a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-torres-2386b21a4/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Herramientas con las que puedo trabajar:</h3>
